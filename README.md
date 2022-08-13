@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @alifrb
-- 👀 I’m interested in Frontend Development
+- 👀 I’m a Frontend Developer
 - 🌱 I’m currently learning React/Redux
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on Frontend Projects
+- 📫 Email : ali.frh92@gmail.com
 
 <!---
 alifrb/alifrb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
