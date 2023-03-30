@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alifrb
 - 👀 I’m a Frontend Developer
-- 🌱 I’m currently learning React/Redux
+- 🌱 I’m currently work as a Frontend Developer
 - 💞️ I’m looking to collaborate on Frontend Projects
 - 📫 Email : ali.frh92@gmail.com
 
