@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alifrb
 - 👀 I’m a Frontend Developer
-- 🌱 Html , Css , Sass , Javscript , Bootstrap , React , Next.js
+- 🌱 My Skills are Html , Css , Sass , Javscript , Bootstrap , React , Next.js
 - 💞️ I’m looking to collaborate on Frontend Projects
 - 📫 Email : ali.frh92@gmail.com
 
