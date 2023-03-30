@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alifrb
 - 👀 I’m a Frontend Developer
-- 🌱 I’m currently work as a Frontend Developer
+- 🌱 Html , Css , Sass , Javscript , Bootstrap , React , Nexxt.js
 - 💞️ I’m looking to collaborate on Frontend Projects
 - 📫 Email : ali.frh92@gmail.com
 
