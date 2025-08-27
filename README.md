@@ -14,20 +14,13 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-- [CoinVista](https://coinvista-ecru.vercel.app/) – A crypto dashboard built with **Next.js, TypeScript & Tailwind**  
-- [Portfolio](https://yourportfolio.com) – My personal website showcasing my work  
-- [Artur.Art](https://github.com/Artur-art-team/react) – An art marketplace project built with **React & Tailwind**  
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
 
 ---
 
 ## 📫 Contact
 - **Email:** ali.frh92@gmail.com  
-- **LinkedIn:** [Ali Farahbakhshdarabi](https://www.linkedin.com/in/ali-farahbakhshdarabi/)  
+- **LinkedIn:** [Ali Farahbakhshdarabi]([https://www.linkedin.com/in/ali-farahbakhshdarabi/](https://www.linkedin.com/in/ali-farahbakhshdarabi-a7a77b202/))  
 
 ---
 ✨ _Thanks for visiting my GitHub profile!_ ✨
